@@ -1,0 +1,4 @@
+<?php 
+locc_catalog();
+
+?>
